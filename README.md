@@ -1,4 +1,4 @@
-### Hi, I'm Ryan
+### Hi, I'm Ryan Wold
 
 
 <!--
@@ -10,15 +10,15 @@
 -->
 
 I'm an Innovation Specialist
-in the GSA
-Technology Transformation Services
-Data Portfolio's
-Feedback Analytics Program
+in the [GSA](https://www.gsa.gov/)
+[Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions)
+[Data Portfolio](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions#data)'s
+[Feedback Analytics Program](https://feedback.usa.gov).
 
 I work on:
 
-* https://touchpoints.digital.gov
-* https://Performance.gov/cx reporting
+* https://touchpoints.digital.gov/
+* https://performance.gov/cx/ reporting
 * OMB Customer Experience Data Collection
 * GSA Website Inventory
 
@@ -39,9 +39,11 @@ I participate in:
 
 I'm also interested in:
 
+* Data reporting and automation
 * Business modeling modeling (workflow)
+  * State machines
 * Wardley Maps
 * Scalable public blockchains
 * Organizational physics
-
----
+* Category theory
+* Auditing
