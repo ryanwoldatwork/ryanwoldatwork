@@ -1,6 +1,9 @@
 ### Hi, I'm Ryan
 
+
+<div style="max-width: 96px;">
 ![](https://avatars.githubusercontent.com/u/67984?v=4)
+</div>
 
 <!--
 - 🌱 I’m currently learning ...
