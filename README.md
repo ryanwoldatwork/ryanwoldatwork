@@ -39,10 +39,11 @@ I participate in:
 
 I'm also interested in:
 
+* GTD - [Getting Things Done](https://www.youtube.com/watch?v=Qo7vUdKTlhk)
 * Data reporting and automation
 * Business modeling modeling (workflow)
   * State machines
-* Wardley Maps
+* [Wardley Maps](https://www.youtube.com/watch?v=2IW9L1uNMCs)
 * Scalable public blockchains
 * Organizational physics
 * Category theory
