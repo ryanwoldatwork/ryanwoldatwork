@@ -43,6 +43,7 @@ I'm also interested in:
 * Data reporting and automation
 * Business modeling modeling (workflow)
   * State machines
+* [Open-source collaboration](https://ben.balter.com/open-sourcing-government/)
 * [Wardley Maps](https://www.youtube.com/watch?v=2IW9L1uNMCs)
 * Scalable public blockchains
 * Organizational physics
