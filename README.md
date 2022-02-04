@@ -49,3 +49,13 @@ I'm also interested in:
 * Organizational physics
 * Category theory
 * Auditing
+
+Current projects include:
+
+* Feedback Analytics Program
+  * Touchpoints
+    * Forms
+    * Data Collections
+    * Websites/registry
+* EDX (Enterprise Digital Experience)
+* eRulemaking
