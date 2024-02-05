@@ -1,14 +1,5 @@
 ### Hi, I'm Ryan Wold
 
-
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-
 I'm an Innovation Specialist
 in the [GSA](https://www.gsa.gov/)
 [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions)
@@ -24,8 +15,9 @@ I work on:
 
 I work with:
 
-* GSA wEDX Team (Enterprise Digital Experience)
+* Touchpoints customers
 * OMB CX CAP Goal team
+* Digital Analytics Program
 
 I participate in:
 
@@ -56,9 +48,7 @@ Current projects include:
   * Touchpoints
     * Forms
     * Data Collections
-    * Websites/registry
-* EDX (Enterprise Digital Experience)
-* eRulemaking
+    * U.S. Digital Registry (Websites, Social Media accounts, Mobile products)
 
 Current work includes:
 
