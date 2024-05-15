@@ -53,3 +53,11 @@ Current projects include:
 Current work includes:
 
 * [TODO](./TODO.md)
+
+#### Presentating & Sharing 🤲
+
+* 2024-05-14 - GSA CX COP Panel Discussion - shared slides on [Product Math](./assets/product-math.pdf)
+* 2023 - ACT-IAC Blockchain Working Group - slides [Blockchain as an Event Source](https://github.com/blockchain-working-group/agendas/blob/main/assets/files/blockchain-as-an-event-source-ryan-wold.pdf)
+* 2023 - USDA REE - slides for [Use Cases for Distributed Ledger Technologies in the Public Sector](./assets/use-cases-for-distributed-ledger-technologies-in-the-public-sector.pdf)
+* 2023 - GSA COP - Product Backlogs
+* 2023 - HUD OIG - Customer Experience & Touchpoints
